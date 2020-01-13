@@ -1,0 +1,29 @@
+{
+  "name": "github-packages",
+  "version": "0.0.1",
+  "description": "example code for publishing node js packages to github packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotshaman/github-packages.git"
+  },
+  "keywords": [
+    "Github",
+    "Node",
+    "NPM",
+    "Node.js",
+    "Node",
+    "JS"
+  ],
+  "author": "Kyle Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iotshaman/github-packages/issues"
+  },
+  "homepage": "https://github.com/iotshaman/github-packages#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
