@@ -25,5 +25,5 @@
     "url": "https://github.com/iotshaman/github-packages/issues"
   },
   "homepage": "https://github.com/iotshaman/github-packages#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@iotshaman" }
 }
